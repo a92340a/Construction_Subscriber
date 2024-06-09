@@ -1,0 +1,7 @@
+functions-framework==3.*
+datetime
+requests==2.31.0
+google-cloud-storage
+python-dotenv
+line-bot-sdk
+pytz
